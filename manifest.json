@@ -1,0 +1,34 @@
+{
+  "manifest_version": "1.0",
+  "org": "beeware",
+  "repo": "setuptools_dynamic_dependencies",
+  "versions": [
+    {
+      "commit": "20c622b695562f55a828bda13d81549a9b7ca53d",
+      "parsed_at": "2026-11-07T12:15:13.280320+00:00",
+      "filetree": "filetree/20c622b695562f55a828bda13d81549a9b7ca53d.nq.gz",
+      "blobs": [
+        "blob/b834affdddcf5014398ca9c16aafe3ea7f2d0422.nq.gz",
+        "blob/df1fe96e58308f687e12e339fe8857458cffe233.nq.gz",
+        "blob/a5e1214e36b4f375b513362cb1203b73fac30885.nq.gz",
+        "blob/8f4d891067235bc1b547ec2d9a5278d1d953f71d.nq.gz",
+        "blob/9577c97cea71255b4b53925cafc04844dff84c81.nq.gz",
+        "blob/48358cb778bc7a758b86205a97bcfbb0aac54324.nq.gz",
+        "blob/85b9269631ae91558dedfb932f9cdf7702efa180.nq.gz",
+        "blob/f7af4dbcb11d67760984edfff9c81a3fa529c991.nq.gz",
+        "blob/699d1abcea467b56e05bad34da5fa4fdea2739b8.nq.gz",
+        "blob/9952b0f3bcca15f906c6dcc3a3e433e71e67cd65.nq.gz",
+        "blob/c4d88e8173e484996f9c1fe716bd0fb7e4c8a73b.nq.gz",
+        "blob/0761cebf2bd27acafe2872bd6849690e6592bf5b.nq.gz",
+        "blob/3419b44bd627c14c0e4eab35acfe6ea1ae38bc8f.nq.gz",
+        "blob/6a88bc6da3167ff0088758b04c30bdc6b6d56343.nq.gz",
+        "blob/bd26d83508060c0a53a0ce1221058c001aecb3f4.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
